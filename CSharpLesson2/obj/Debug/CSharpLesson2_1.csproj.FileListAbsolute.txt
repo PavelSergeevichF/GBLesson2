@@ -1,0 +1,7 @@
+D:\Архив\IT\GB\GBLesson2\CSharpLesson2\CSharpLesson2\bin\Debug\CSharpLesson2.exe.config
+D:\Архив\IT\GB\GBLesson2\CSharpLesson2\CSharpLesson2\bin\Debug\CSharpLesson2.exe
+D:\Архив\IT\GB\GBLesson2\CSharpLesson2\CSharpLesson2\bin\Debug\CSharpLesson2.pdb
+D:\Архив\IT\GB\GBLesson2\CSharpLesson2\CSharpLesson2\obj\Debug\CSharpLesson2_1.csproj.AssemblyReference.cache
+D:\Архив\IT\GB\GBLesson2\CSharpLesson2\CSharpLesson2\obj\Debug\CSharpLesson2_1.csproj.CoreCompileInputs.cache
+D:\Архив\IT\GB\GBLesson2\CSharpLesson2\CSharpLesson2\obj\Debug\CSharpLesson2.exe
+D:\Архив\IT\GB\GBLesson2\CSharpLesson2\CSharpLesson2\obj\Debug\CSharpLesson2.pdb
